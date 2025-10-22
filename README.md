@@ -1,6 +1,6 @@
 ## Hi there 👋
 ![pacman](https://github.com/user-attachments/assets/117d4e78-413f-4dcb-987b-20fed854293a)
-<svg width="1144" height="174" xmlns="http://www.w3.org/2000/svg"> width="100%" height="100%" fill="#0d1117"/><defs>
+<svg width="1144" height="174" xmlns="http://www.w3.org/2000/svg">
 		<symbol id="gb" viewBox="0 0 100 100">
             <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAfUlEQVQ4T+2TUQ7AIAhDy/0PzQIRAqxmLtnn/DJPWypBAVkKKOMCyOQN7IRElLrcnIrDLNK4wVtxNbkb6Hq+jOcSbim6QVzKEstkw92gxVeFrMpqokix4wA+NvCOnvfArvcEbHoe2G9QmmhDMUc65p3xYC6q3zQPxtdl3NgF5QpL/b/rs3IAAAAASUVORK5CYIIA" width="100" height="100"/>
 		</symbol>
