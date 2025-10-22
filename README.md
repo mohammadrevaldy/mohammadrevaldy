@@ -1,4 +1,4 @@
-## Hi there 👋
+## halo stupid👋
 ![pacman](https://github.com/user-attachments/assets/117d4e78-413f-4dcb-987b-20fed854293a)
 <svg width="1144" height="174" xmlns="http://www.w3.org/2000/svg">
 		<symbol id="gb" viewBox="0 0 100 100">
